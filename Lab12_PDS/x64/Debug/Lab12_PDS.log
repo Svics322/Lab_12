@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_12\Lab12_PDS\Graph.h(36,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_12\Lab12_PDS\Graph.h(79,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_12\Lab12_PDS\Graph.h(142,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab12_PDS.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_12\Lab12_PDS\x64\Debug\Lab12_PDS.exe
